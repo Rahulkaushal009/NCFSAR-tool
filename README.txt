@@ -22,7 +22,7 @@ Steps-
 or 
 Type addpath('NCF_SAR') in MATLAB command window
 
-3) Prepare fomat .csv file for data in put. Data should be in same format as in example file (TNLW-3).
+3) Prepare format .csv file for data input. Data should be in same format as in example file (TNLW-3).
 
 4) Open MATLAB code named as Run_NCF.m 
 
