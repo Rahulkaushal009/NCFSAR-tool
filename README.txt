@@ -30,7 +30,7 @@ or simply type in command window "load_NCFSAR_data".
  
 5. Follow instructions appear on command window
 
-6. Once done. It will automaically make a new folder as Results  and NCF corrected excel file will be saved. 
+6. Once done. It will automatically make a new folder as Results  and NCF corrected excel file will be saved. 
 
 or 
 Please see MATLAB_NCF_SAR.pdf (A screenshot).
